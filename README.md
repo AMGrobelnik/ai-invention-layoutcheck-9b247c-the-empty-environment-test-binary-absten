@@ -9,7 +9,7 @@
 </picture>
 </a>
 
-<sub>🖱️ <b><a href="https://cdn.jsdelivr.net/gh/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten@main/workflow.svg">Open the interactive diagram</a></b> — every card links to its artifact folder.</sub>
+<sub>🖱️ Click the diagram to <b><a href="https://cdn.jsdelivr.net/gh/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten@main/workflow.svg">open the interactive version</a></b> — there, every card links to its artifact folder.</sub>
 
 </div>
 
