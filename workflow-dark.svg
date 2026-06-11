@@ -20,9 +20,6 @@
 <g><title></title><path d="M 498.0 74.0 C 498.0 112.7, 212.0 121.3, 212.0 160.0" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title></title><path d="M 498.0 74.0 C 498.0 112.7, 498.0 121.3, 498.0 160.0" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title></title><path d="M 498.0 74.0 C 498.0 112.7, 784.0 121.3, 784.0 160.0" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
-<g><title>background: background</title><path d="M 230.0 258.0 L 230.0 268.0 Q 230.0 278.0 240.0 278.0 L 476.0 278.0 Q 486.0 278.0 486.0 268.0 L 486.0 260.0" fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
-<g><title>uses: uses</title><path d="M 230.0 258.0 L 230.0 282.0 Q 230.0 292.0 240.0 292.0 L 752.0 292.0 Q 762.0 292.0 762.0 282.0 L 762.0 260.0" fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
-<g><title>uses: uses</title><path d="M 516.0 258.0 L 516.0 268.0 Q 516.0 278.0 526.0 278.0 L 762.0 278.0 Q 772.0 278.0 772.0 268.0 L 772.0 260.0" fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title>uses: uses</title><path d="M 498.0 258.0 C 498.0 296.7, 498.0 305.3, 498.0 344.0" fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title>uses: uses</title><path d="M 212.0 258.0 C 212.0 296.7, 498.0 305.3, 498.0 344.0" fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title>uses: uses</title><path d="M 784.0 258.0 C 784.0 296.7, 784.0 305.3, 784.0 344.0" fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
@@ -138,45 +135,24 @@
   </g>
 </a>
 <g>
-  <title>background: background</title>
-  <rect x="322.5" y="270.0" width="71" height="16" rx="8"
-    fill="#0d1117" stroke="#3b82f6" stroke-width="1"/>
-  <text x="358.0" y="281.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#3b82f6">BACKGROUND</text>
-</g>
-<g>
   <title>uses: uses</title>
-  <rect x="475.8" y="284.0" width="40" height="16" rx="8"
-    fill="#0d1117" stroke="#3b82f6" stroke-width="1"/>
-  <text x="496.0" y="295.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#3b82f6">USES</text>
-</g>
-<g>
-  <title>uses: uses</title>
-  <rect x="669.9" y="270.0" width="40" height="16" rx="8"
+  <rect x="477.8" y="293.0" width="40" height="16" rx="8"
     fill="#0d1117" stroke="#f59e0b" stroke-width="1"/>
-  <text x="690.1" y="281.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+  <text x="498.0" y="304.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#f59e0b">USES</text>
 </g>
 <g>
   <title>uses: uses</title>
-  <rect x="477.8" y="304.6" width="40" height="16" rx="8"
-    fill="#0d1117" stroke="#f59e0b" stroke-width="1"/>
-  <text x="498.0" y="315.6" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#f59e0b">USES</text>
-</g>
-<g>
-  <title>uses: uses</title>
-  <rect x="368.8" y="298.7" width="40" height="16" rx="8"
+  <rect x="260.9" y="279.9" width="40" height="16" rx="8"
     fill="#0d1117" stroke="#3b82f6" stroke-width="1"/>
-  <text x="389.0" y="309.7" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+  <text x="281.1" y="290.9" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#3b82f6">USES</text>
 </g>
 <g>
   <title>uses: uses</title>
-  <rect x="763.8" y="274.3" width="40" height="16" rx="8"
+  <rect x="763.8" y="306.1" width="40" height="16" rx="8"
     fill="#0d1117" stroke="#8b5cf6" stroke-width="1"/>
-  <text x="784.0" y="285.3" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+  <text x="784.0" y="317.1" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="8.5" font-weight="600" letter-spacing="0.4" fill="#8b5cf6">USES</text>
 </g>
 <circle cx="27" cy="638.0" r="5" fill="#3b82f6"/><text x="38" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">research</text><circle cx="120.2" cy="638.0" r="5" fill="#f59e0b"/><text x="131.2" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">dataset</text><circle cx="207.0" cy="638.0" r="5" fill="#8b5cf6"/><text x="218.0" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">experiment</text><circle cx="313.0" cy="638.0" r="5" fill="#10b981"/><text x="324.0" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">evaluation</text><circle cx="419.0" cy="638.0" r="5" fill="#e11d48"/><text x="430.0" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">paper</text><text x="496.0" y="641.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-style="italic" fill="#8b949e">&#8594; arrows show what each artifact builds on &#183; click any card</text>
