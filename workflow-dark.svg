@@ -3,7 +3,6 @@
   <style>
     a { cursor: pointer; }
     a:hover rect.card { stroke-width: 2; }
-    a:hover text.card-title { text-decoration: underline; }
   </style>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
@@ -48,8 +47,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">RESEARCH</text>
     <text x="173.6" y="185.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-1/research-1</text>
-    <text class="card-title" x="100.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="100.0" dy="0">Bounded ATMS, Baselines, OpenRouter</tspan><tspan x="100.0" dy="14">Pricing, and CLUTRR Splits Survey</tspan></text>
+    <text x="100.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="100.0" dy="0">Bounded ATMS, Baselines, OpenRouter</tspan><tspan x="100.0" dy="14">Pricing, and CLUTRR Splits Survey</tspan></text>
   </g>
 </a>
 <a href="https://github.com/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten/tree/main/round-1/dataset-1" target="_top">
@@ -63,8 +62,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">DATASET</text>
     <text x="453.4" y="185.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-1/dataset-1</text>
-    <text class="card-title" x="386.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="386.0" dy="0">Unified ATMS Benchmark: CLUTRR +</tspan><tspan x="386.0" dy="14">RuleTaker + ProofWriter (380</tspan><tspan x="386.0" dy="14">instances)</tspan></text>
+    <text x="386.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="386.0" dy="0">Unified ATMS Benchmark: CLUTRR +</tspan><tspan x="386.0" dy="14">RuleTaker + ProofWriter (380</tspan><tspan x="386.0" dy="14">instances)</tspan></text>
   </g>
 </a>
 <a href="https://github.com/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten/tree/main/round-1/experiment-1" target="_top">
@@ -78,8 +77,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">EXPERIMENT</text>
     <text x="758.0" y="185.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-1/experiment-1</text>
-    <text class="card-title" x="672.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="672.0" dy="0">Bounded ATMS Hallucination Meter for</tspan><tspan x="672.0" dy="14">Text-to-Logic Reasoning</tspan></text>
+    <text x="672.0" y="210.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="672.0" dy="0">Bounded ATMS Hallucination Meter for</tspan><tspan x="672.0" dy="14">Text-to-Logic Reasoning</tspan></text>
   </g>
 </a>
 <text x="22" y="398.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8b949e">R2</text>
@@ -95,8 +94,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">DATASET</text>
     <text x="167.4" y="369.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-2/dataset-1</text>
-    <text class="card-title" x="100.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="100.0" dy="0">L1 Grounding Ambiguity Multi-Hop</tspan><tspan x="100.0" dy="14">Dataset: CLUTRR + HotpotQA +</tspan><tspan x="100.0" dy="14">2WikiMultihopQA</tspan></text>
+    <text x="100.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="100.0" dy="0">L1 Grounding Ambiguity Multi-Hop</tspan><tspan x="100.0" dy="14">Dataset: CLUTRR + HotpotQA +</tspan><tspan x="100.0" dy="14">2WikiMultihopQA</tspan></text>
   </g>
 </a>
 <a href="https://github.com/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten/tree/main/round-2/experiment-1" target="_top">
@@ -110,8 +109,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">EXPERIMENT</text>
     <text x="472.0" y="369.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-2/experiment-1</text>
-    <text class="card-title" x="386.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="386.0" dy="0">Bounded ATMS Iter-2: Matched-Coverage</tspan><tspan x="386.0" dy="14">Baselines and 70B Ablation</tspan></text>
+    <text x="386.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="386.0" dy="0">Bounded ATMS Iter-2: Matched-Coverage</tspan><tspan x="386.0" dy="14">Baselines and 70B Ablation</tspan></text>
   </g>
 </a>
 <a href="https://github.com/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten/tree/main/round-2/evaluation-1" target="_top">
@@ -125,8 +124,8 @@
       font-size="9.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">EVALUATION</text>
     <text x="758.0" y="369.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9"
       fill="#8b949e">round-2/evaluation-1</text>
-    <text class="card-title" x="672.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"
-      font-weight="600" fill="#4493f8"><tspan x="672.0" dy="0">Rigorous Statistical Evaluation of</tspan><tspan x="672.0" dy="14">ATMS Hallucination Meter — Iter 1</tspan><tspan x="672.0" dy="14">Results</tspan></text>
+    <text x="672.0" y="394.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600"
+      fill="#e6edf3"><tspan x="672.0" dy="0">Rigorous Statistical Evaluation of</tspan><tspan x="672.0" dy="14">ATMS Hallucination Meter — Iter 1</tspan><tspan x="672.0" dy="14">Results</tspan></text>
   </g>
 </a>
 <a href="https://github.com/AMGrobelnik/ai-invention-layoutcheck-9b247c-the-empty-environment-test-binary-absten/blob/main/paper.pdf" target="_top">
